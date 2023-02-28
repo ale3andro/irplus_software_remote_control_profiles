@@ -1,0 +1,51 @@
+<irplus>
+ <device manufacturer="" model="Crypto tv star" columns="12" format="WINLIRC_NEC1" bits="16" pre-bits="16">
+  <button label="&#61457;" labelSize="25.0" span="4" backgroundColor="FFC84334">0x10ef 0xd02f</button>
+  <button label="&#1045889;" labelSize="25.0" span="4">0x18e7 0x906f</button>
+  <button label="TV/AV" labelSize="18.0" span="4">0x10ef 0x00ff</button>
+  <button label="1" labelSize="25.0" span="4">0x18e7 0x08f7</button>
+  <button label="2" labelSize="25.0" span="4">0x18e7 0x8877</button>
+  <button label="3" labelSize="25.0" span="4">0x18e7 0x48b7</button>
+  <button label="4" labelSize="25.0" span="4">0x18e7 0xc837</button>
+  <button label="5" labelSize="25.0" span="4">0x18e7 0x28d7</button>
+  <button label="6" labelSize="25.0" span="4">0x18e7 0xa857</button>
+  <button label="7" labelSize="25.0" span="4">0x18e7 0x6897</button>
+  <button label="8" labelSize="25.0" span="4">0x18e7 0xe817</button>
+  <button label="9" labelSize="25.0" span="4">0x18e7 0x18e7</button>
+  <button label="EPG" labelSize="18.0" span="4">0x10ef 0x6897</button>
+  <button label="0" labelSize="25.0" span="4">0x18e7 0x58a7</button>
+  <button label="Recall" labelSize="18.0" span="4">0x18e7 0x04fb</button>
+  <button label="CH+" labelSize="18.0" span="4">0x10ef 0xd827</button>
+  <button label="&#61656;" labelSize="25.0" span="4">0x10ef 0xd827</button>
+  <button label="VOL+" labelSize="18.0" span="4">0x10ef 0x7887</button>
+  <button label="&#61657;" labelSize="25.0" span="4">0x18e7 0x4ab5</button>
+  <button label="OK" labelSize="25.0" span="4">0x10ef 0x58a7</button>
+  <button label="&#61658;" labelSize="25.0" span="4">0x10ef 0x7887</button>
+  <button label="CH-" labelSize="18.0" span="4">0x10ef 0x9867</button>
+  <button label="&#61655;" labelSize="25.0" span="4">0x10ef 0x9867</button>
+  <button label="VOL-" labelSize="18.0" span="4">0x10ef 0x4dbf</button>
+  <button label="Audio" labelSize="18.0" span="4">0x10ef 0x50a7</button>
+  <button label="Video" labelSize="18.0" span="4">0x18e7 0x20df</button>
+  <button label="Text" labelSize="18.0" span="4">0x10ef 0x48b7</button>
+  <button label="Menu" labelSize="18.0" span="3">0x10ef 0xc03f</button>
+  <button label="Exit" labelSize="18.0" span="3">0x10ef 0xc03f</button>
+  <button label="Display" labelSize="12.0" span="3">0x18e7 0x24db</button>
+  <button label="Return TV" labelSize="12.0" span="3">0x18e7 0x649b</button>
+  <button label="Sleep Timer" labelSize="12.0" span="3">0x18e7 0xd827</button>
+  <button label="Subt List" labelSize="12.0" span="3">0x18e7 0xb34c</button>
+  <button label="Txt Expand" labelSize="12.0" span="3">0x18e7 0xe41b</button>
+  <button label="Back" labelSize="18.0" span="3">0x18e7 0xf00f</button>
+  <button label="Update" labelSize="18.0" span="3">0x18e7 0xc43b</button>
+  <button label="Reveal" labelSize="18.0" span="3">0x18e7 0xa45b</button>
+  <button label="Txt Stop" labelSize="12.0" span="3">0x18e7 0x738c</button>
+  <button label="Info" labelSize="18.0" span="3">0x18e7 0xd42b</button>
+  <button label="R" labelSize="25.0" span="3" fillColor="FFC84334">0x18e7 0x5ba4</button>
+  <button label="G" labelSize="25.0" span="3" fillColor="FF1E7854">0x18e7 0xdb24</button>
+  <button label="Y" labelSize="25.0" span="3" fillColor="FFD6A81F">0x18e7 0x3bc4</button>
+  <button label="B" labelSize="25.0" span="3" fillColor="FF2A4C94">0x18e7 0xbb44</button>
+  <button label="F1" labelSize="25.0" span="3">0x18e7 0xb847</button>
+  <button label="F2" labelSize="25.0" span="3">0x18e7 0x0bf4</button>
+  <button label="F3" labelSize="25.0" span="3">0x18e7 0x54ab</button>
+  <button label="F4" labelSize="25.0" span="3">0x18e7 0xf30c</button>
+ </device>
+</irplus>
