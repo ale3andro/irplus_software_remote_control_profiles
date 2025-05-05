@@ -1,6 +1,6 @@
 # Profiles for software remote controls for the irPlus Android application
 
-Remote controls unfortunately are destroyed, damaged, lost. 
+Remote controls are unfortunately misplaced, permanently destroyed, damaged or lost. 
 
 There are many profiles for software remotes for the most popular tv sets. 
 
@@ -26,6 +26,8 @@ More details [here](https://ale3andro.gr/blog/2023/03/01/%cf%84%ce%b7%ce%bb%ce%b
 ## DM dvb-t2 or Blow T2
 
 ![DM dvb-t2](./images/dm-dvb-t2.png)
+
+The DM decoder is most probably a clone (aimed for the Greek market), of the Blow T2 dvb-t2 decoder.
 
 The profile is [here](./dm.irplus). You must import it int the [irplus](https://play.google.com/store/apps/details?id=net.binarymode.android.irplus&hl=el&gl=US) application
 
