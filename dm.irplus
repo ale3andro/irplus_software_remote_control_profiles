@@ -1,0 +1,39 @@
+<irplus>
+ <device manufacturer="" model="DM" columns="12" format="WINLIRC_NEC1" bits="16" pre-bits="16">
+  <button label="&#61457;" labelSize="25.0" span="4" backgroundColor="FFC84334">0x00ff 0xe817</button>
+  <button label="&#1045889;" labelSize="25.0" span="4">0x007f 0x40bf</button>
+  <button label="TV/Radio" labelSize="18.0" span="4">0x007f 0x906f</button>
+  <button label="1" labelSize="25.0" span="4">0x007f 0x32cd</button>
+  <button label="2" labelSize="25.0" span="4">0x007f 0x708f</button>
+  <button label="3" labelSize="25.0" span="4">0x007f 0xb24d</button>
+  <button label="4" labelSize="25.0" span="4">0x007f 0xf00f</button>
+  <button label="5" labelSize="25.0" span="4">0x007f 0xf20d</button>
+  <button label="6" labelSize="25.0" span="4">0x007f 0x728d</button>
+  <button label="7" labelSize="25.0" span="4">0x007f 0xd02f</button>
+  <button label="8" labelSize="25.0" span="4">0x007f 0xd22d</button>
+  <button label="9" labelSize="25.0" span="4">0x007f 0x52ad</button>
+  <button label="EPG" labelSize="18.0" span="4">0x007f 0xe01f</button>
+  <button label="0" labelSize="25.0" span="4">0x007f 0x12ed</button>
+  <button label="Recall" labelSize="18.0" span="4">0x007f 0x9867</button>
+  <button label="CH+" labelSize="18.0" span="4">0x007f 0x629d</button>
+  <button label="&#61656;" labelSize="25.0" span="4">0x007f 0x629d</button>
+  <button label="VOL+" labelSize="18.0" span="4">0x007f 0xa857</button>
+  <button label="&#61657;" labelSize="25.0" span="4">0x007f 0xe21d</button>
+  <button label="OK" labelSize="25.0" span="4">0x007f 0xaa55</button>
+  <button label="&#61658;" labelSize="25.0" span="4">0x007f 0xa857</button>
+  <button label="CH-" labelSize="18.0" span="4">0x007f 0x6897</button>
+  <button label="&#61655;" labelSize="25.0" span="4">0x007f 0x6897</button>
+  <button label="VOL-" labelSize="18.0" span="4">0x007f 0xe21d</button>
+  <button label="Audio" labelSize="18.0" span="4">0x007f 0x906f</button>
+  <button label="Video" labelSize="18.0" span="4">0x007f 0xb04f</button>
+  <button label="Text" labelSize="18.0" span="4">0x007f 0x88ff</button>
+  <button label="Menu/Back" labelSize="18.0" span="3">0x007f 0x22dd</button>
+  <button label="Recall" labelSize="12.0" span="3">0x007f 0x9867</button>
+  <button label="Sleep Timer" labelSize="12.0" span="3">0x007f 0x</button>
+  <button label="Ch List" labelSize="12.0" span="3">0x007f 0xaa55 0xb34c</button>
+  <button label="R" labelSize="25.0" span="3" fillColor="FFC84334">0x18e7 0x5ba4</button>
+  <button label="G" labelSize="25.0" span="3" fillColor="FF1E7854">0x18e7 0xdb24</button>
+  <button label="Y" labelSize="25.0" span="3" fillColor="FFD6A81F">0x18e7 0x3bc4</button>
+  <button label="B" labelSize="25.0" span="3" fillColor="FF2A4C94">0x18e7 0xbb44</button>
+ </device>
+</irplus>
